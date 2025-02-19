@@ -1,3 +1,9 @@
+in user_class we enter the basic components of the user: name, surname, email, etc., and get_age to calculate their age.
+in user_util we enter parameters for password and e-mail creation: how many letters/numbers/simbols etc.
+only classmethods are entered in user_service. e.g. find_user, add_user, etc.
+
+And this is an example of the input/output:
+
 Write your name: 
 John
 Write your surname: 
